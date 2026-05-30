@@ -1,2 +1,2 @@
 # snehalbalki-demo
-This is first Git Repository.
+This is my first Git Repository.
